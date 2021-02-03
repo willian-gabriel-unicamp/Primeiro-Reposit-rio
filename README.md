@@ -1,2 +1,4 @@
 # Primeiro Repositório
- Primeiro repositório versionado
+Primeiro repositório versionado
+
+Aprendendo a criar um repositório com Git integrado ao Github e ao Visual Studio Code
